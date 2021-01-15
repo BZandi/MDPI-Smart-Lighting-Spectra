@@ -78,7 +78,7 @@ The spectral raw dara data are in tidy format in a CSV file in which the respect
 
 **Column 18 -** `OptimResult_Number`:  Since several spectra could be found in an optimisation round, this index indicates the number of spectra found in an optimisation round.
 
-**Column 19 to 419 -** `x380Nm`, `x381Nm`, `....`, `x780Nm`: The optimised spectrum which is stated in radiance W/m<sup>2</sup>sr λ 
+**Column 19 to 419 -** `x380Nm`, `x381Nm`, `....`, `x780Nm`: The optimised spectrum which is stated in radiance W/m<sup>2</sup>sr nm 
 
 ## Demo Code
 

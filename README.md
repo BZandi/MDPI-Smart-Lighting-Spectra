@@ -269,9 +269,9 @@ For further examples of how the available data can be evaluated, checkout the fi
 
 ## License
 
-The Twitter icon <img src="/Users/papillonmac/OneDrive/GitHub_Repository/Public/DL-PupilModel-AKTUELL-OFFLINE/img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from: https://about.twitter.com/de/company/brand-resources.html
+The Twitter icon <img src="/Users/papillonmac/OneDrive/GitHub_Repository/Public/DL-PupilModel-AKTUELL-OFFLINE/img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://about.twitter.com/de/company/brand-resources.html
 
-The Google Scholar icon <img src="/Users/papillonmac/OneDrive/GitHub_Repository/Public/DL-PupilModel-AKTUELL-OFFLINE/img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from: https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg
+The Google Scholar icon <img src="/Users/papillonmac/OneDrive/GitHub_Repository/Public/DL-PupilModel-AKTUELL-OFFLINE/img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
 

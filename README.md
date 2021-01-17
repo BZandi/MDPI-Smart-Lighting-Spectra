@@ -28,11 +28,11 @@ In this repository, we provide the raw spectra data of our optimisation procedur
 
 The spectral database is divided into three individual files each containing the spectra from the  6-channel, 8-channel and 11-channel luminaire. The use of a certain number of LED channels does not mean that all spectra were generated with a constant channel count. For instance, there may be spectra in the 6-channel data set that were generated with three or four channels. The labeling of the channel count of a luminaire defines the upper limit of available channels for generating the spectra for reaching a target chromaticity point. The special feature of the database is that for each chromaticity coordinate a large number of metamer spectra is included,  allowing a systematic investigation of contrast values at a given constant chromaticity coordinate. 
 
-**Spectral raw database of the 6-channel LED luminaire:** [Download-Link (646 695 spectra, 1.9 GB)](https://storage.googleapis.com/mdpi-smart-lighting-data/OptimResults_CH6_RAW.csv.zip)
+**Spectral raw database of the 6-channel LED luminaire:** [Download-Link (646 695 spectra, 1.9 GB)](https://bit.ly/3sxYUhu-CH6-Spectra)
 
-**Spectral raw database of the 8-channel LED luminaire:** [Download-Link (306 429 spectra, 1.2 GB)](https://storage.googleapis.com/mdpi-smart-lighting-data/OptimResults_CH8_RAW.csv.zip)
+**Spectral raw database of the 8-channel LED luminaire:** [Download-Link (306 429 spectra, 1.2 GB)](http://bit.ly/3nRx6RF-CH8-Spectra)
 
-**Spectral raw database of the 11-channel LED luminaire:** [Download-Link (113 719 spectra, 452.1 MB)](https://storage.googleapis.com/mdpi-smart-lighting-data/OptimResults_CH11_RAW.csv.zip)
+**Spectral raw database of the 11-channel LED luminaire:** [Download-Link (113 719 spectra, 452.1 MB)](http://bit.ly/38RCrUF-CH11-Spectra)
 
 The table with the used chromaticity targets with which the optimisation was carried out can be found here in the GitHub repository in the CSV file [`A00_Data/01_Compact_Optim Results/Optimisation_Targets.csv`](A00_Data/01_Compact_Optim Results/Optimisation_Targets.csv). The table contains the following columns:
 

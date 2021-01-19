@@ -1,6 +1,6 @@
 # *Data Repository* <br/>Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems
 
-[![Published](https://img.shields.io/badge/MDPI%20Energies-Under%20Review-red)]()
+[![Published](https://img.shields.io/badge/MDPI%20Energies-Accepted-green)]()
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](http://creativecommons.org/licenses/by/4.0/)
 
 This reporsitory provides over 1.2 million optimised multi-channel LED metamer spetra presented in the article *"Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems"* authored by Babak Zandi, Adrian Eissfeldt, Alexander Herzog and Trand Quoc Khanh.

@@ -4,7 +4,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fen14030525-blue)](https://doi.org/10.3390/en14030527)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](http://creativecommons.org/licenses/by/4.0/)
 
-This reporsitory provides over 1.2 million optimised multi-channel LED metamer spetra presented in the article *"Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems"* authored by [Babak Zandi](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lt/team_lt/mitarbeiter_lt/mitarbeiterdetails_sharq_65600.de.jsp), Adrian Eissfeldt, Alexander Herzog and Trand Quoc Khanh.
+This reporsitory provides over 1.2 million optimised multi-channel LED metamer spetra presented in the article *"Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems"* authored by [Babak Zandi](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lt/team_lt/mitarbeiter_lt/mitarbeiterdetails_sharq_65600.de.jsp), Adrian Eissfeldt, Alexander Herzog and Trand Quoc Khanh. <br/>
 [[**Paper**]](https://www.mdpi.com/1996-1073/14/3/527) [[**Supplementary materials**]](https://www.mdpi.com/1996-1073/14/3/527/s1)
 
 :email: **Correspondence:** zandi@lichttechnik.tu-darmstadt.de<br/>
@@ -13,7 +13,7 @@ This reporsitory provides over 1.2 million optimised multi-channel LED metamer s
 
 ## Overview
 
-We have optimised metamer spectra for 561 chromaticity coordinates along the Planckian locus between 2700 K and 7443 K. The chromaticity targets were selected with Duv's between -0.048 to +0.048 from Planck (see Figure). Spectra were generated using a 6-channel, 8-channel and 11-channel luminaire each with different LED combinations. The spectra were optimised at a luminance of 140 cd/m<sup>2</sup>, 180 cd/m<sup>2</sup> and 220 cd/m<sup>2</sup>, respectively. At low CCTs, the chromaticity targets were outside of the colour space; therefore, no optimisation results are available for these points. 
+We have used  561 chromaticity coordinates as optimisation targets which were located along the Planckian locus between 2700 K and 7443 K. The targets were selected with Duv's between -0.048 to +0.048 from Planck (see Figure). Spectra were generated using a 6-channel, 8-channel and 11-channel luminaire each with different LED combinations. The spectra were optimised at a luminance of 140 cd/m<sup>2</sup>, 180 cd/m<sup>2</sup> and 220 cd/m<sup>2</sup>, respectively. At low CCTs, the chromaticity targets were outside of the colour space; therefore, no optimisation results are available for these points. 
 
 <p align="center">
   <img src="img/Figures_Publication/PNG/Figure_2.png">

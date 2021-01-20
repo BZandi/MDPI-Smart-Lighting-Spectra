@@ -1,9 +1,11 @@
 # *Data Repository* <br/>Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems
 
-[![Published](https://img.shields.io/badge/MDPI%20Energies-Accepted-green)]()
+[![Published](https://img.shields.io/badge/MDPI%20Energies-Published-green)](https://www.mdpi.com/1996-1073/14/3/527)
+[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fen14030525-blue)](https://doi.org/10.3390/en14030527)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](http://creativecommons.org/licenses/by/4.0/)
 
-This reporsitory provides over 1.2 million optimised multi-channel LED metamer spetra presented in the article *"Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems"* authored by Babak Zandi, Adrian Eissfeldt, Alexander Herzog and Trand Quoc Khanh.
+This reporsitory provides over 1.2 million optimised multi-channel LED metamer spetra presented in the article *"Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems"* authored by [Babak Zandi](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lt/team_lt/mitarbeiter_lt/mitarbeiterdetails_sharq_65600.de.jsp), Adrian Eissfeldt, Alexander Herzog and Trand Quoc Khanh.
+[[**Paper**]](https://www.mdpi.com/1996-1073/14/3/527) [[**Supplementary materials**]](https://www.mdpi.com/1996-1073/14/3/527/s1)
 
 :email: **Correspondence:** zandi@lichttechnik.tu-darmstadt.de<br/>
 <img src="img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20> **Google Scholar Profile:** [Babak Zandi](https://scholar.google.de/citations?user=LSA7SdAAAAAJ&hl=de)<br/>
@@ -267,6 +269,25 @@ disp(Table_S2)
 
 For further examples of how the available data can be evaluated, checkout the file [`Main.m`](Main.m).
 
+## Citation
+
+Please consider to cite our work if you find this repository or our results useful for your research:
+
+Zandi, B.; Eissfeldt, A.; Herzog, A.; Khanh, T.Q. Melanopic Limits of Metamer Spectral Optimisation in Multi-Channel Smart Lighting Systems. *Energies* **2021**, *14*,* 527*. https://doi.org/10.3390/en14030527
+
+```bib
+@Article{Zandi2021B,
+AUTHOR = {Zandi, Babak and Eissfeldt, Adrian and Herzog, Alexander and Khanh, Tran Quoc},
+TITLE = {Melanopic Limits of Metamer Spectral Optimisation in Multi-Channel Smart Lighting Systems},
+JOURNAL = {Energies},
+VOLUME = {14},
+YEAR = {2021},
+NUMBER = {3},
+ARTICLE-NUMBER = {527},
+URL = {https://www.mdpi.com/1996-1073/14/3/527},
+ISSN = {1996-1073},
+DOI = {10.3390/en14030527}}
+```
 ## License
 
 The Twitter icon <img src="img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://about.twitter.com/de/company/brand-resources.html

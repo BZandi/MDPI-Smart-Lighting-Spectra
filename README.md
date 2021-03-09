@@ -8,8 +8,8 @@ This reporsitory provides over 1.2 million optimised multi-channel LED metamer s
 [[**Paper**]](https://www.mdpi.com/1996-1073/14/3/527) [[**Supplementary materials**]](https://www.mdpi.com/1996-1073/14/3/527/s1)
 
 :email: **Correspondence:** zandi@lichttechnik.tu-darmstadt.de<br/>
-<img src="img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20> **Google Scholar Profile:** [Babak Zandi](https://scholar.google.de/citations?user=LSA7SdAAAAAJ&hl=de)<br/>
-<img src="img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20> **Twitter:** [@BkZandi](https://twitter.com/bkzandi)
+**Google Scholar Profile:** [Babak Zandi](https://scholar.google.de/citations?user=LSA7SdAAAAAJ&hl=de)<br/>
+**Twitter:** [@BkZandi](https://twitter.com/bkzandi)
 
 ## Overview
 
@@ -289,10 +289,6 @@ ISSN = {1996-1073},
 DOI = {10.3390/en14030527}}
 ```
 ## License
-
-The Twitter icon <img src="img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://about.twitter.com/de/company/brand-resources.html
-
-The Google Scholar icon <img src="img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
 

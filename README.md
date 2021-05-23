@@ -14,7 +14,7 @@ This reporsitory provides over 1.2 million optimised multi-channel LED metamer s
 <div align="center">
 <a style="font-weight:bold" href="https://www.mdpi.com/1996-1073/14/3/527">[Paper]</a>
 <a style="font-weight:bold" href="https://www.mdpi.com/1996-1073/14/3/527/s1">[Supplementary materials]</a>
-</div>
+</div> <br/>
 
 **Correspondence:** zandi@lichttechnik.tu-darmstadt.de<br/>
 **Google Scholar Profile:** [Babak Zandi](https://scholar.google.de/citations?user=LSA7SdAAAAAJ&hl=de)<br/>

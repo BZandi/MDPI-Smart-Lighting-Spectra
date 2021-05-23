@@ -1,4 +1,4 @@
-# *Data Repository* <br/>Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems
+# *Data Repository* <br/>Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems<br/>
 
 <div align="center">
   <a href="https://www.mdpi.com/1996-1073/14/3/527" alt="Published">

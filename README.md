@@ -282,7 +282,7 @@ For further examples of how the available data can be evaluated, checkout the fi
 
 Please consider to cite our work if you find this repository or our results useful for your research:
 
-Zandi, B.; Eissfeldt, A.; Herzog, A.; Khanh, T.Q. Melanopic Limits of Metamer Spectral Optimisation in Multi-Channel Smart Lighting Systems. *Energies* **2021**, *14*,* 527*. https://doi.org/10.3390/en14030527
+Zandi, B.; Eissfeldt, A.; Herzog, A.; Khanh, T.Q. Melanopic Limits of Metamer Spectral Optimisation in Multi-Channel Smart Lighting Systems. *Energies* **2021**, *14*,*527*. https://doi.org/10.3390/en14030527
 
 ```bib
 @Article{Zandi2021B,

@@ -9,8 +9,6 @@
         <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey"/></a>
 </div> 
 
------
-
 <div align="center">
 <a style="font-weight:bold" href="https://www.mdpi.com/1996-1073/14/3/527">[Paper]</a>
 <a style="font-weight:bold" href="https://www.mdpi.com/1996-1073/14/3/527/s1">[Supplementary materials]</a>

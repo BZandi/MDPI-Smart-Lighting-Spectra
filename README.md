@@ -41,9 +41,9 @@ The spectral database is divided into three individual files each containing the
 
 **Spectral raw database of the 6-channel LED luminaire:** [Download-Link (646 695 spectra, 1.9 GB)](https://bit.ly/3sxYUhu-CH6-Spectra)
 
-**Spectral raw database of the 8-channel LED luminaire:** [Download-Link (306 429 spectra, 1.2 GB)](http://bit.ly/3nRx6RF-CH8-Spectra)
+**Spectral raw database of the 8-channel LED luminaire:** [Download-Link (306 429 spectra, 1.2 GB)](https://bit.ly/3nRx6RF-CH8-Spectra)
 
-**Spectral raw database of the 11-channel LED luminaire:** [Download-Link (113 719 spectra, 452.1 MB)](http://bit.ly/38RCrUF-CH11-Spectra)
+**Spectral raw database of the 11-channel LED luminaire:** [Download-Link (113 719 spectra, 452.1 MB)](https://bit.ly/38RCrUF-CH11-Spectra)
 
 The table with the used chromaticity targets with which the optimisation was carried out can be found here in the GitHub repository in the CSV file [`A00_Data/01_Compact_Optim Results/Optimisation_Targets.csv`](A00_Data/01_Compact_Optim Results/Optimisation_Targets.csv). The table contains the following columns:
 

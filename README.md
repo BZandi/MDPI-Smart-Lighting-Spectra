@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey"/></a>
 </div>  <br/>
 
-This reporsitory provides over 1.2 million optimised multi-channel LED metamer spetra presented in the article *"Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems"* authored by [Babak Zandi](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lichttechnik_lt/team_lt/mitarbeiter_lt_detail_65600.en.jsp), Adrian Eissfeldt, Alexander Herzog and Tran Quoc Khanh. <br/>
+This repository provides over 1.2 million optimised multi-channel LED metamer spetra presented in the article *"Melanopic limits of metamer spectral optimisation in multi-channel smart lighting systems"* authored by [Babak Zandi](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lichttechnik_lt/team_lt/mitarbeiter_lt_detail_65600.en.jsp), Adrian Eissfeldt, Alexander Herzog and Tran Quoc Khanh. <br/>
 
 <div align="center">
 <a style="font-weight:bold" href="https://www.mdpi.com/1996-1073/14/3/527">[Paper]</a>

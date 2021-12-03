@@ -303,5 +303,5 @@ DOI = {10.3390/en14030527}}
 ```
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). The code is licensed under [![GPL3](https://img.shields.io/badge/License-GNU%20GPLv3-blue"/)](https://choosealicense.com/licenses/gpl-3.0/#).
 
